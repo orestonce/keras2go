@@ -3,8 +3,8 @@ keras2go
 
 [English](https://github.com/orestonce/keras2go/blob/master/README.md) | 中文
 
-keras2go 使用go代码重新了实现的[keras2c](https://github.com/f0uriest/keras2c)的功能
-keras2go 是一个可以把keras网络模型转换成纯go语言实现前向传播的工具
+* keras2go 使用go代码重新了实现的[keras2c](https://github.com/f0uriest/keras2c)的功能
+* keras2go 是一个可以把keras网络模型转换成纯go语言实现前向传播的工具
 
 快速开始
 ====

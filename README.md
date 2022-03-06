@@ -3,9 +3,8 @@ keras2go
 
 English | [中文](https://github.com/orestonce/keras2go/blob/master/README_zh.md)
 
-keras2go uses go code to re-implement the functionality of [keras2c](https://github.com/f0uriest/keras2c)
-keras2go is a library for deploying keras neural networks in pure go, using only standard libraries.
-It is designed to be as simple as possible for real time applications.
+* keras2go uses go code to re-implement the functionality of [keras2c](https://github.com/f0uriest/keras2c)
+* keras2go is a library for deploying keras neural networks in pure go, using only standard libraries. It is designed to be as simple as possible for real time applications.
 
 Quickstart
 ====
