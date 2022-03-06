@@ -68,9 +68,7 @@ MIT
 Similar projects
 ====
 I found another similar projects on Github:
-
-
-https://github.com/gosha20777/keras2cpp
-https://github.com/pplonski/keras2cpp
-https://github.com/moof2k/kerasify
-https://github.com/Dobiasd/frugally-deep
+  * https://github.com/gosha20777/keras2cpp
+  * https://github.com/pplonski/keras2cpp
+  * https://github.com/moof2k/kerasify
+  * https://github.com/Dobiasd/frugally-deep
